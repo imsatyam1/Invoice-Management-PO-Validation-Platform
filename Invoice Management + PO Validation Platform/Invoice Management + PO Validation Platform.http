@@ -1,0 +1,6 @@
+@Invoice_Management___PO_Validation_Platform_HostAddress = http://localhost:5023
+
+GET {{Invoice_Management___PO_Validation_Platform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

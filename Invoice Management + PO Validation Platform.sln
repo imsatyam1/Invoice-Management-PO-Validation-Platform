@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice Management + PO Validation Platform", "Invoice Management + PO Validation Platform\Invoice Management + PO Validation Platform.csproj", "{38EE5427-07B8-4CE8-BF6D-A70B55D2EF31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice_Management_PO_Validation_Platform.BAL", "Invoice_Management_PO_Validation_Platform.BAL\Invoice_Management_PO_Validation_Platform.BAL.csproj", "{E5D6F763-1D56-4C9A-83FE-A8D9DABD63E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice_Management_PO_Validation_Platform.DAL", "Invoice_Management_PO_Validation_Platform.DAL\Invoice_Management_PO_Validation_Platform.DAL.csproj", "{935E2803-B273-46DD-976A-E308A07E3A75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice_Managemen_PO_Validation_Platform.DTO", "Invoice_Managemen_PO_Validation_Platform.DTO\Invoice_Managemen_PO_Validation_Platform.DTO.csproj", "{B4DD2E56-8924-484B-AE55-25737791E2E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoice_Management_PO_Validation_Platform.IBAL", "Invoice_Management_PO_Validation_Platform.IBAL\Invoice_Management_PO_Validation_Platform.IBAL.csproj", "{4A9FFABB-664B-4E05-AA62-9399DAEAC5E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38EE5427-07B8-4CE8-BF6D-A70B55D2EF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38EE5427-07B8-4CE8-BF6D-A70B55D2EF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38EE5427-07B8-4CE8-BF6D-A70B55D2EF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38EE5427-07B8-4CE8-BF6D-A70B55D2EF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D6F763-1D56-4C9A-83FE-A8D9DABD63E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D6F763-1D56-4C9A-83FE-A8D9DABD63E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D6F763-1D56-4C9A-83FE-A8D9DABD63E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D6F763-1D56-4C9A-83FE-A8D9DABD63E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935E2803-B273-46DD-976A-E308A07E3A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935E2803-B273-46DD-976A-E308A07E3A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935E2803-B273-46DD-976A-E308A07E3A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935E2803-B273-46DD-976A-E308A07E3A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DD2E56-8924-484B-AE55-25737791E2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DD2E56-8924-484B-AE55-25737791E2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DD2E56-8924-484B-AE55-25737791E2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DD2E56-8924-484B-AE55-25737791E2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9FFABB-664B-4E05-AA62-9399DAEAC5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9FFABB-664B-4E05-AA62-9399DAEAC5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9FFABB-664B-4E05-AA62-9399DAEAC5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9FFABB-664B-4E05-AA62-9399DAEAC5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF53BE0A-61E0-4023-9744-2592C6F96D18}
+	EndGlobalSection
+EndGlobal
